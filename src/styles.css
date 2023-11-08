@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@import "@angular/cdk/overlay-prebuilt.css";
+
+/* This class add background image to the header, remove it if you don't want it */
+.header-bg {
+  background: url(./assets/images/header-bg.jpg) no-repeat;
+}
